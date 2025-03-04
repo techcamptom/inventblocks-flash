@@ -1,6 +1,6 @@
 {
   "name": "Inventblocks ESP32 remote firmware",
-  "version": "1.01",
+  "version": "1.02",
   "new_install_prompt_erase": false,
   "builds": [
     {
