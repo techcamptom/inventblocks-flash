@@ -1,0 +1,16 @@
+{
+  "name": "Inventblocks ESP32 stamp firmware",
+  "version": "1.03",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "image_stamp.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
