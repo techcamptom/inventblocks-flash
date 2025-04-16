@@ -1,6 +1,6 @@
 {
   "name": "Inventblocks ESP32 stamp firmware",
-  "version": "1.03",
+  "version": "1.04",
   "new_install_prompt_erase": false,
   "builds": [
     {
