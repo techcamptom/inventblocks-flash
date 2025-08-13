@@ -1,0 +1,16 @@
+{
+  "name": "Inventblocks RC Car transmitter firmware",
+  "version": "1.04",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "image_cartx.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
